@@ -19,13 +19,13 @@ This project detects fake currency notes using image processing techniques in MA
 1. Place images of currency notes in a folder.
 2. Run the main script in MATLAB:
     ```matlab
-    final code.m
+    finalcode.m
     ```
 3. Follow the instructions to select an image and see the result.
 
 ## Files
 
-- `final code.m` – Main script
+- `finalcode.m` – Main script
 - `Feature Dataset` – Folder for Dataset of Fetures
 - `Original Notes` - Folder for Original Currency Notes
 - `Fake Notes` - Folder for fake Currency Notes
